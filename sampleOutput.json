@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 1284,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "Apple is raising App Store prices across Europe and Asia",
+      "description": "Apple has announced that it's raising the prices of both apps and in-app purchases, not including auto-renewable subscriptions, across several regions starting on October 5th. All territories using the Euro currency are affected, along with Chile, Egypt, Japa…",
+      "url": "https://www.engadget.com/apple-raising-app-store-prices-europe-and-asia-101018295.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/e3980db0-38c1-11ed-97d7-a9a22cf4ed7a",
+      "publishedAt": "2022-09-20T10:10:18Z",
+      "content": "Apple has announced that it's raising the prices of both apps and in-app purchases, not including auto-renewable subscriptions, across several regions starting on October 5th. All territories using t… [+1287 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Apple will fix iOS 16's annoying copy and paste prompts",
+      "description": "Apple has another bug to quash in iOS 16. Senior manager Ron Huang told a MacRumors reader that the company will fix the frequent permissions prompts when you try to copy and paste content between apps. This is \"absolutely not expected behavior,\" Huang said. …",
+      "url": "https://www.engadget.com/apple-ios-16-copy-and-paste-prompt-fix-131559755.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/bccd3bf0-38e0-11ed-b7ec-8730884d360c",
+      "publishedAt": "2022-09-20T13:15:59Z",
+      "content": "Apple has another bug to quash in iOS 16. Senior manager Ron Huang told a MacRumors reader that the company will fix the frequent permissions prompts when you try to copy and paste content between ap… [+823 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Steve Dent",
+      "title": "Tile now offers $1 QR code stickers as a low-tech way to recover lost items",
+      "description": "Tile has just launched \"Lost and Found\" QR labels that are a essentially a low-tech way to get your stuff back. They're meant to be used on small or perhaps not particularly valuable items like \"travel mugs, musical instruments, sports equipment and earbud ca…",
+      "url": "https://www.engadget.com/tiles-lost-and-found-qr-code-stickers-114508208.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/35a0ed60-38d2-11ed-9fa7-0d35289ddcac",
+      "publishedAt": "2022-09-20T11:45:08Z",
+      "content": "Tile has just launched \"Lost and Found\" QR labels that are a essentially a low-tech way to get your stuff back. They're meant to be used on small or perhaps not particularly valuable items like \"trav… [+949 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Breakingviews - Samsung climate inertia is by-product of Seoul's - Reuters",
+      "description": "Seoul's foot-dragging on climate change is holding back Korea Inc. Last week the country's top conglomerate, Samsung Electronics <a href=\"https://www.reuters.com/companies/005930.KS\" target=\"_blank\">(005930.KS)</a>, <a href=\"https://news.samsung.com/global/sa…",
+      "url": "https://www.reuters.com/breakingviews/samsung-climate-inertia-is-by-product-seouls-2022-09-20/",
+      "urlToImage": "https://www.reuters.com/resizer/vjoDouyMzbtcQkEikaIm72JcdDI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFGJM7JLJ5J7LI7YWBOTVARJZA.jpg",
+      "publishedAt": "2022-09-20T03:30:00Z",
+      "content": "HONG KONG, Sept 20 (Reuters Breakingviews) - Seoul's foot-dragging on climate change is holding back Korea Inc. Last week the country's top conglomerate, Samsung Electronics (005930.KS), unveiled an … [+3767 chars]"
+    }
+    ]
+}
